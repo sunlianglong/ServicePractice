@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ServicePractice</string>
+    <string name="button1">Bind Service</string>
+    <string name="button2">UnBind Service</string>
+</resources>
