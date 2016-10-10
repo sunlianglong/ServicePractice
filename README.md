@@ -126,7 +126,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 ```
 挨个点击效果图：
 
-![image](D://photos/service.png)
+![](https://github.com/sunlianglong/Img/raw/master/Photos/service.png) 
 
 > #### 注意
 
@@ -187,7 +187,7 @@ case R.id.start_intent_service:
 ```
 点击按钮后：
 
-![image](D://photos/log.png)
+![](https://github.com/sunlianglong/Img/raw/master/Photos/log.png) 
 
 
 
